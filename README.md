@@ -27,7 +27,7 @@
 
 📫 How to reach me => **mohammed.f.zain@gmail.com**
 
-📄 Know about my experiences => [Click Here](file:///C:/My%20Personal%20Data/Mohammad%20Saied%20Full%20Stack%20Developer.pdf)
+📄 Know about my experiences => [Click Here](fullstackresume.tiiny.site)
 
 <hr>
 
