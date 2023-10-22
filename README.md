@@ -13,7 +13,7 @@
 <br>
 ✅ Let's Go: [Live](https://lets-goo.netlify.app/) / [Code](https://github.com/mohammed-f-zain/Travel-Planner)
 <br>
-✅ Eatly Template [Live](https://app.netlify.com/sites/eatly-template/configuration/general) / [Code](https://github.com/mohammed-f-zain/Eatly_Task)
+✅ Eatly Template [Live](https://eatly-template.netlify.app/) / [Code](https://github.com/mohammed-f-zain/Eatly_Task)
 <br>
 
 
