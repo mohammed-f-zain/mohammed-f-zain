@@ -11,7 +11,7 @@
 <br>
 ✅ Dev Bridge: [Live](https://devbridge.netlify.app/) / [Code](https://github.com/mohammed-f-zain/registration-devBridge)
 <br>
-✅ Dev Bridge: [Live](https://lets-goo.netlify.app/) / [Code]([https://github.com/mohammed-f-zain/Travel-Planner])
+✅ Dev Bridge: [Live](https://lets-goo.netlify.app/) / [Code](https://github.com/mohammed-f-zain/Travel-Planner)
 <br>
 
 
