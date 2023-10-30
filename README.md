@@ -3,7 +3,7 @@
 </h3> <br>
 
 ⭐ My Projects: <br> <br> 
-✅ Portfolio: [Live](https://saeedfwazportfolio.netlify.app/) / [Code](https://github.com/mohammed-f-zain/prort-folio) 
+✅ Portfolio: [Live](https://saeedfwazportfolio.netlify.app/) / [Code](https://saeedf-portfolio.netlify.app/) 
 <br> 
 ✅ Github-Finder: [Live](https://githubfounder.netlify.app/) / [Code](https://github.com/mohammed-f-zain/github-Founder) 
 <br>
@@ -13,7 +13,7 @@
 <br>
 ✅ Let's Go: [Live](https://lets-goo.netlify.app/) / [Code](https://github.com/mohammed-f-zain/Travel-Planner)
 <br>
-✅ Eatly Template [Live](https://eatly-template.netlify.app/) / [Code](https://github.com/mohammed-f-zain/Eatly_Task)
+✅ Eatly Template :[Live](https://eatly-template.netlify.app/) / [Code](https://github.com/mohammed-f-zain/Eatly_Task)
 <br>
 
 
